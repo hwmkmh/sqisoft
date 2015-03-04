@@ -14,6 +14,6 @@ public class Test {
     }
     
     public String testMethodByKdKim(){
-        return null;
+        return "testtest";
     }
 }
