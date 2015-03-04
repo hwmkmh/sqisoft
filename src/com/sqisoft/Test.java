@@ -10,6 +10,6 @@ package com.sqisoft;
 
 public class Test {
     public String testMethod(){
-        return null;
+        return "test";
     }
 }
