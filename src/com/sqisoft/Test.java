@@ -20,4 +20,8 @@ public class Test {
     public String testMethod3(){
         return "test3";
     }
+    
+    public String testMethod4(){
+        return "test4";
+    }        
 }
