@@ -10,7 +10,7 @@ package com.sqisoft;
 
 public class Test {
     public String testMethod(){
-        return "test1";
+        return "test1-test";
     }
     
     public String testMethod2(){
