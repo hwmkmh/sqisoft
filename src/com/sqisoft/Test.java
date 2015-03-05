@@ -10,10 +10,6 @@ package com.sqisoft;
 
 public class Test {
     public String testMethod(){
-        return "testtest";
-    }
-    
-    public String testMethodByKdKim(){
-        return "testtest";
+        return "test1";
     }
 }
