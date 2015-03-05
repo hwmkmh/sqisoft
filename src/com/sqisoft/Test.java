@@ -16,4 +16,8 @@ public class Test {
     public String testMethod2(){
         return "test2";
     }
+    
+    public String testMethod3(){
+        return "test3";
+    }
 }
