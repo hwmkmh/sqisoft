@@ -22,6 +22,7 @@ public class Test {
     }
     
     public String testMethod4(){
+        // test result
         return "test4";
     }        
 }
