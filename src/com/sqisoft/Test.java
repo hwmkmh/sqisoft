@@ -22,7 +22,7 @@ public class Test {
     }
     
     public String testMethod4(){
-        // test result   test1test1test1test1test1
+        // test result   test1test1test1test1test1test1
         return "test4";
     }        
 }
